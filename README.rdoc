@@ -1,4 +1,4 @@
 rails4  +Extjs4
-
+仅仅放了extjs4环境的项目
 1  extjs-all.js  加到系统中  application.js 添加extjs-all的引用
 2  resource  引用ext-all.css     application.css添加extjs-all的引用
